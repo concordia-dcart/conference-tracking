@@ -1,18 +1,18 @@
 # Conference tracking
 
-Last checked: 2026-10-05 (core list + Monday watchlist; watchlist searches found nothing official/new)
+Last checked: 2026-10-05 (core list + Monday watchlist; no date changes; Link column added to Upcoming deadlines)
 
 Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 closed
 
 ## Upcoming deadlines (sorted by date)
 
-| Date | Conference | What | Status | Notes |
-|---|---|---|---|---|
-| 2026-10 (TBA) | NIME 2027 | Call to be published | 🟡 | No deadlines yet |
-| 2026-11-01 | EvoMUSART 2027 | Paper | 🟢 | |
-| 2026-11-01 | ICLC 2027 | Paper notification | milestone | Submission closed Sep 1 |
-| 2026-11-14 | TENOR 2027 | Papers, workshops, theoretical-artistic presentations | 🟢 | Call published Sep 28, 2026; notification Jan 21, 2027; camera-ready Feb 22, 2027 |
-| 2027-02-01 | ICLC 2027 | Satellite events | 🟢 | |
+| Date | Conference | What | Status | Notes | Link |
+|---|---|---|---|---|---|
+| 2026-10 (TBA) | NIME 2027 | Call to be published | 🟡 | No deadlines yet | [page](https://nime2027.org) |
+| 2026-11-01 | EvoMUSART 2027 | Paper | 🟢 | | [page](https://www.evostar.org/2027/evomusart/) |
+| 2026-11-01 | ICLC 2027 | Paper notification | milestone | Submission closed Sep 1 | [page](https://iclc.toplap.org/2027/) |
+| 2026-11-14 | TENOR 2027 | Papers, workshops, theoretical-artistic presentations | 🟢 | Call published Sep 28, 2026; notification Jan 21, 2027; camera-ready Feb 22, 2027 | [page](https://orpheusinstituut.be/en/news/tenor2027) |
+| 2027-02-01 | ICLC 2027 | Satellite events | 🟢 | | [page](https://iclc.toplap.org/2027/) |
 
 ## All conferences
 
