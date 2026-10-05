@@ -1,6 +1,6 @@
 # Conference tracking
 
-Last checked: 2026-10-05 (core list only; Monday watchlist not checked this run)
+Last checked: 2026-10-05 (core list + Monday watchlist; watchlist searches found nothing official/new)
 
 Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 closed
 
@@ -11,15 +11,14 @@ Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 c
 | 2026-10 (TBA) | NIME 2027 | Call to be published | 🟡 | No deadlines yet |
 | 2026-11-01 | EvoMUSART 2027 | Paper | 🟢 | |
 | 2026-11-01 | ICLC 2027 | Paper notification | milestone | Submission closed Sep 1 |
-| 2026-11-14 | TENOR 2027 | All types | 🟡 | CONFLICT: see below |
-| 2026-12-15 | TENOR 2027 | Papers, posters, workshops, demos, sonic works | 🟡 | From search snippet only; notification Feb 17, 2027 |
+| 2026-11-14 | TENOR 2027 | Papers, workshops, theoretical-artistic presentations | 🟢 | Call published Sep 28, 2026; notification Jan 21, 2027; camera-ready Feb 22, 2027 |
 | 2027-02-01 | ICLC 2027 | Satellite events | 🟢 | |
 
 ## All conferences
 
 | Conference | Where / when | Status | Deadlines | Notification | Source | Checked |
 |---|---|---|---|---|---|---|
-| **TENOR 2027** | Ghent, Apr 21–23, 2027 | 🟡 | Nov 14, 2026 (all types) per official news page; Dec 15, 2026 per snippet | Feb 17, 2027 (snippet) | [orpheusinstituut.be](https://orpheusinstituut.be/en/news/tenor2027) | 2026-10-05 |
+| **TENOR 2027** | Ghent, Apr 21–23, 2027 | 🟢 | Nov 14, 2026 (papers, workshops, theoretical-artistic presentations) | Jan 21, 2027 (camera-ready Feb 22; registration closes Apr 4) | [orpheusinstituut.be](https://orpheusinstituut.be/en/news/tenor2027) | 2026-10-05 |
 | **MEC 2027** | Rome, Jun 7–10, 2027 | ⚪ | CFP not announced | — | [music-encoding.org](https://music-encoding.org/update/2026/08/25/mec2027.html) | 2026-10-05 |
 | **NIME 2027** | Paris, Jun 22–25, 2027 | ⚪ | Call due October 2026 | — | [nime2027.org](https://nime2027.org) | 2026-10-05 |
 | **WAC 2027** | Brazil (unconfirmed) | ⚪ | No call found | — | none official | 2026-10-05 |
@@ -37,8 +36,9 @@ Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 c
 
 ## Flags / unverified
 
-- **TENOR 2027 conflict:** one official page gives Nov 14, 2026; a search snippet of events/tenor2027 gives Dec 15, 2026 with notification Feb 17, 2027; another official page says “call opens October 2026”. Re-check.
+- **TENOR 2027:** earlier Dec 15 / Feb 17 snippet dates were not confirmed by the official page; official page (call published Sep 28) gives Nov 14 / Jan 21. Music/sonic-works category not listed on the page; verify.
 - **NeurIPS dates** come from search snippets; the official page fetch did not show them.
 - **WAC 2027 (Brazil)** is unconfirmed on an official page.
 - **AIMC 2027** milestones are not retrievable from the official site.
+- **CTM 2027:** an open call for a spatial-audio lab was said to follow in September; official page not verified.
 - **ISMIR 2027** site (ismir2027.ismir.net) was unreachable.
