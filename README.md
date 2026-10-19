@@ -1,6 +1,6 @@
 # Conference tracking
 
-Last checked: 2026-10-05 (core list + Monday watchlist; no date changes; Link column added to Upcoming deadlines)
+Last checked: 2026-10-19 (core list + Monday watchlist; CTM 2027 open calls added; no other changes)
 
 Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 closed
 
@@ -9,8 +9,10 @@ Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 c
 | Date | Conference | What | Status | Notes | Link |
 |---|---|---|---|---|---|
 | 2026-10 (TBA) | NIME 2027 | Call to be published | 🟡 | No deadlines yet | [page](https://nime2027.org) |
+| 2026-10-25 | CTM 2027 | Research Networking Day: call for presentations | 🟢 | Year not stated on page; verify | [page](https://www.ctm-festival.de/festival-2027/open-calls) |
 | 2026-11-01 | EvoMUSART 2027 | Paper | 🟢 | | [page](https://www.evostar.org/2027/evomusart/) |
 | 2026-11-01 | ICLC 2027 | Paper notification | milestone | Submission closed Sep 1 | [page](https://iclc.toplap.org/2027/) |
+| 2026-11-06 | CTM 2027 | Vorspiel 2027 open call (transmediale & CTM) | 🟢 | | [page](https://www.ctm-festival.de/festival-2027/open-calls) |
 | 2026-11-14 | TENOR 2027 | Papers, workshops, theoretical-artistic presentations | 🟢 | Call published Sep 28, 2026; notification Jan 21, 2027; camera-ready Feb 22, 2027 | [page](https://orpheusinstituut.be/en/news/tenor2027) |
 | 2027-02-01 | ICLC 2027 | Satellite events | 🟢 | | [page](https://iclc.toplap.org/2027/) |
 
@@ -40,5 +42,5 @@ Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 c
 - **NeurIPS dates** come from search snippets; the official page fetch did not show them.
 - **WAC 2027 (Brazil)** is unconfirmed on an official page.
 - **AIMC 2027** milestones are not retrievable from the official site.
-- **CTM 2027:** an open call for a spatial-audio lab was said to follow in September; official page not verified.
+- **CTM 2027:** Research Networking Day deadline “25 October” has no year on the official page; assumed 2026. Spatial-audio lab, In Listening and Resynthesising calls are closed. Volunteers call coming late autumn.
 - **ISMIR 2027** site (ismir2027.ismir.net) was unreachable.
