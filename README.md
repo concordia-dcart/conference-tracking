@@ -1,6 +1,6 @@
 # Conference tracking
 
-Last checked: 2026-10-19 (core list + Monday watchlist; CTM 2027 open calls added; no other changes)
+Last checked: 2026-10-23 (core list; TENOR 2027 categories clarified; no date changes)
 
 Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 closed
 
@@ -13,7 +13,7 @@ Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 c
 | 2026-11-01 | EvoMUSART 2027 | Paper | 🟢 | | [page](https://www.evostar.org/2027/evomusart/) |
 | 2026-11-01 | ICLC 2027 | Paper notification | milestone | Submission closed Sep 1 | [page](https://iclc.toplap.org/2027/) |
 | 2026-11-06 | CTM 2027 | Vorspiel 2027 open call (transmediale & CTM) | 🟢 | | [page](https://www.ctm-festival.de/festival-2027/open-calls) |
-| 2026-11-14 | TENOR 2027 | Papers, workshops, theoretical-artistic presentations | 🟢 | Call published Sep 28, 2026; notification Jan 21, 2027; camera-ready Feb 22, 2027 | [page](https://orpheusinstituut.be/en/news/tenor2027) |
+| 2026-11-14 | TENOR 2027 | Papers, workshops, theoretical-artistic presentations | 🟢 | Call published Sep 28, 2026; artistic presentations (≤10 min, must link to a paper or workshop); notification Jan 21, 2027; camera-ready Feb 22, 2027 | [page](https://orpheusinstituut.be/en/news/tenor2027) |
 | 2027-02-01 | ICLC 2027 | Satellite events | 🟢 | | [page](https://iclc.toplap.org/2027/) |
 
 ## All conferences
@@ -38,7 +38,7 @@ Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 c
 
 ## Flags / unverified
 
-- **TENOR 2027:** earlier Dec 15 / Feb 17 snippet dates were not confirmed by the official page; official page (call published Sep 28) gives Nov 14 / Jan 21. Music/sonic-works category not listed on the page; verify.
+- **TENOR 2027:** earlier Dec 15 / Feb 17 snippet dates were not confirmed by the official page; official page (call published Sep 28) gives Nov 14 / Jan 21. Official page lists artistic presentations (≤10 min fixed-media/live electronics) but only linked to a paper or workshop; no standalone music call.
 - **NeurIPS dates** come from search snippets; the official page fetch did not show them.
 - **WAC 2027 (Brazil)** is unconfirmed on an official page.
 - **AIMC 2027** milestones are not retrievable from the official site.
