@@ -1,6 +1,6 @@
 # Conference tracking
 
-Last checked: 2026-10-27 (core list; not Monday, watchlist skipped; EvoMUSART extension flagged unverified; no other changes)
+Last checked: 2026-10-29 (core list; not Monday, watchlist skipped; EvoMUSART extension to Nov 16 now shown on official site; no other changes)
 
 Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 closed
 
@@ -9,10 +9,10 @@ Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 c
 | Date | Conference | What | Status | Notes | Link |
 |---|---|---|---|---|---|
 | 2026-10 (TBA) | NIME 2027 | Call to be published | 🟡 | No deadlines yet | [page](https://nime2027.org) |
-| 2026-11-01 | EvoMUSART 2027 | Paper | 🟢 | Extension to Nov 16 reported only via @evostar tweet; official dates still say Nov 1 (unverified) | [page](https://www.evostar.org/2027/evomusart/) |
 | 2026-11-01 | ICLC 2027 | Paper notification | milestone | Submission closed Sep 1 | [page](https://iclc.toplap.org/2027/) |
 | 2026-11-06 | CTM 2027 | Vorspiel 2027 open call (transmediale & CTM) | 🟢 | | [page](https://www.ctm-festival.de/festival-2027/open-calls) |
 | 2026-11-14 | TENOR 2027 | Papers, workshops, theoretical-artistic presentations | 🟢 | Call published Sep 28, 2026; artistic presentations (≤10 min, must link to a paper or workshop); notification Jan 21, 2027; camera-ready Feb 22, 2027 | [page](https://orpheusinstituut.be/en/news/tenor2027) |
+| 2026-11-16 | EvoMUSART 2027 | Paper | 🟢 | Extended from Nov 1 (per official EvoStar news feed); notification Jan 10, 2027 | [page](https://www.evostar.org/2027/evomusart/) |
 | 2027-02-01 | ICLC 2027 | Satellite events | 🟢 | | [page](https://iclc.toplap.org/2027/) |
 
 ## All conferences
@@ -29,7 +29,7 @@ Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 c
 | **ICMC 2027** | — | ⚪ | No call found | — | — | 2026-10-05 |
 | **SMC 2027** | — | ⚪ | No call found | — | — | 2026-10-05 |
 | **ICLC 2027** | Antwerp, Mar 9–13, 2027 | 🔴 papers · 🟢 satellite | Papers, performances, workshops, installations: Sep 1, 2026 (closed). Satellite events: Feb 1, 2027 | Nov 1, 2026 (papers) | [iclc.toplap.org](https://iclc.toplap.org/2027/) | 2026-10-05 |
-| **EvoMUSART 2027** | Mainz, Mar 31–Apr 2, 2027 | 🟢 | Paper: Nov 1, 2026 (Nov 16 extension unverified) | Jan 10, 2027 (camera-ready Jan 24; late-breaking abstracts Mar 21) | [evostar.org](https://www.evostar.org/2027/evomusart/) | 2026-10-27 |
+| **EvoMUSART 2027** | Mainz, Mar 31–Apr 2, 2027 | 🟢 | Paper: Nov 16, 2026 (extended from Nov 1) | Jan 10, 2027 (camera-ready Jan 24; late-breaking abstracts Mar 21) | [evostar.org](https://www.evostar.org/2027/evomusart/) | 2026-10-27 |
 | **ICCC 2027** | Host bidding phase | ⚪ | No CFP | — | [computationalcreativity.net](https://computationalcreativity.net) | 2026-10-05 |
 | **ISEA 2027** | — | ⚪ | No call found (ISEA 2026 Dubai over) | — | — | 2026-10-05 |
 | **NeurIPS 2026 Creative AI** | Sydney | 🔴 | Aug 10, 2026 (extended, closed) | Sep 18; camera-ready Oct 23, 2026 | [neurips.cc](https://neurips.cc/Conferences/2026/CallForCreativeAI) | 2026-10-05 |
@@ -42,6 +42,6 @@ Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 c
 - **WAC 2027 (Brazil)** is unconfirmed on an official page.
 - **AIMC 2027** milestones are not retrievable from the official site.
 - **CTM 2027:** Research Networking Day call (deadline Oct 25) is now listed as closed. Vorspiel open call closes Nov 6. Spatial-audio lab, In Listening and Resynthesising calls are closed. Volunteers call coming late autumn.
-- **EvoMUSART 2027:** evostar.org page text cites an @evostarconf tweet extending the paper deadline to Nov 16, 2026, but the official Important Dates list still shows Nov 1 and no mailing-list/official notice was found. Treat Nov 1 as binding until confirmed.
-- **NIME 2027:** site says the call will be published in October 2026; not yet published as of Oct 27.
+- **EvoMUSART 2027:** Nov 16 extension now appears on the official EvoStar site (news feed); the generic Important Dates block is shared across Evo* conferences.
+- **NIME 2027:** site says the call will be published in October 2026; not yet published as of Oct 29.
 - **ISMIR 2027** site (ismir2027.ismir.net) was unreachable.
