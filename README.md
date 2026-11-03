@@ -1,6 +1,6 @@
 # Conference tracking
 
-Last checked: 2026-10-29 (core list; not Monday, watchlist skipped; EvoMUSART extension to Nov 16 now shown on official site; no other changes)
+Last checked: 2026-11-03 (core list; not Monday, watchlist skipped; NIME 2027 call now slated for early November, conference dates Jun 21–25; EvoMUSART page rate-limited; no other changes)
 
 Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 closed
 
@@ -8,7 +8,7 @@ Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 c
 
 | Date | Conference | What | Status | Notes | Link |
 |---|---|---|---|---|---|
-| 2026-10 (TBA) | NIME 2027 | Call to be published | 🟡 | No deadlines yet | [page](https://nime2027.org) |
+| 2026-11 (early, TBA) | NIME 2027 | Call to be published | 🟡 | Official page: call “published in early November 2026”; no deadlines yet | [page](https://nime2027.org) |
 | 2026-11-01 | ICLC 2027 | Paper notification | milestone | Submission closed Sep 1 | [page](https://iclc.toplap.org/2027/) |
 | 2026-11-06 | CTM 2027 | Vorspiel 2027 open call (transmediale & CTM) | 🟢 | | [page](https://www.ctm-festival.de/festival-2027/open-calls) |
 | 2026-11-14 | TENOR 2027 | Papers, workshops, theoretical-artistic presentations | 🟢 | Call published Sep 28, 2026; artistic presentations (≤10 min, must link to a paper or workshop); notification Jan 21, 2027; camera-ready Feb 22, 2027 | [page](https://orpheusinstituut.be/en/news/tenor2027) |
@@ -21,7 +21,7 @@ Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 c
 |---|---|---|---|---|---|---|
 | **TENOR 2027** | Ghent, Apr 21–23, 2027 | 🟢 | Nov 14, 2026 (papers, workshops, theoretical-artistic presentations) | Jan 21, 2027 (camera-ready Feb 22; registration closes Apr 4) | [orpheusinstituut.be](https://orpheusinstituut.be/en/news/tenor2027) | 2026-10-05 |
 | **MEC 2027** | Rome, Jun 7–10, 2027 | ⚪ | CFP not announced | — | [music-encoding.org](https://music-encoding.org/update/2026/08/25/mec2027.html) | 2026-10-05 |
-| **NIME 2027** | Paris, Jun 22–25, 2027 | ⚪ | Call due October 2026 | — | [nime2027.org](https://nime2027.org) | 2026-10-05 |
+| **NIME 2027** | Paris, Jun 21–25, 2027 | ⚪ | Call to be published early Nov 2026 | — | [nime2027.org](https://nime2027.org) | 2026-11-03 |
 | **WAC 2027** | Brazil (unconfirmed) | ⚪ | No call found | — | none official | 2026-10-05 |
 | **AIMC 2027** *(organizer)* | Montréal, Aug 18–20, 2027 | — | Milestones not retrievable (page thin) | — | [aimusiccreativity.org](https://2027.aimusiccreativity.org) | 2026-10-05 |
 | **Expanded (Ars Electronica)** | Linz, Sep 9–11, 2026 | 🔴 | Paper deadline was May 1, 2026; 2027 call not found | — | — | 2026-10-05 |
@@ -33,7 +33,7 @@ Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 c
 | **ICCC 2027** | Host bidding phase | ⚪ | No CFP | — | [computationalcreativity.net](https://computationalcreativity.net) | 2026-10-05 |
 | **ISEA 2027** | — | ⚪ | No call found (ISEA 2026 Dubai over) | — | — | 2026-10-05 |
 | **NeurIPS 2026 Creative AI** | Sydney | 🔴 | Aug 10, 2026 (extended, closed) | Sep 18; camera-ready Oct 23, 2026 | [neurips.cc](https://neurips.cc/Conferences/2026/CallForCreativeAI) | 2026-10-05 |
-| **MUTEK Montréal 2027** | Edition 28 | ⚪ | No call yet (2026 call closed Jan 31, 2026) | — | [montreal.mutek.org](https://montreal.mutek.org) | 2026-10-05 |
+| **MUTEK Montréal 2027** | Edition 28 | ⚪ | No call yet (2026 call closed Jan 31, 2026); edition 28 is Aug 24–29, 2027 | — | [montreal.mutek.org](https://montreal.mutek.org) | 2026-11-03 |
 
 ## Flags / unverified
 
@@ -43,5 +43,5 @@ Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 c
 - **AIMC 2027** milestones are not retrievable from the official site.
 - **CTM 2027:** Research Networking Day call (deadline Oct 25) is now listed as closed. Vorspiel open call closes Nov 6. Spatial-audio lab, In Listening and Resynthesising calls are closed. Volunteers call coming late autumn.
 - **EvoMUSART 2027:** Nov 16 extension now appears on the official EvoStar site (news feed); the generic Important Dates block is shared across Evo* conferences.
-- **NIME 2027:** site says the call will be published in October 2026; not yet published as of Oct 29.
+- **NIME 2027:** site now says the call will be published in early November 2026 (previously October); not yet published as of Nov 3.
 - **ISMIR 2027** site (ismir2027.ismir.net) was unreachable.
