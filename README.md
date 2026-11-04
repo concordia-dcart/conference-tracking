@@ -1,6 +1,6 @@
 # Conference tracking
 
-Last checked: 2026-11-03 (core list; not Monday, watchlist skipped; NIME 2027 call now slated for early November, conference dates Jun 21–25; EvoMUSART page rate-limited; no other changes)
+Last checked: 2026-11-04 (core list; not Monday, watchlist skipped; TENOR 2027 official page now lists conflicting deadline Nov 14 / Nov 21; NIME call still unpublished; no other changes)
 
 Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 closed
 
@@ -11,7 +11,7 @@ Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 c
 | 2026-11 (early, TBA) | NIME 2027 | Call to be published | 🟡 | Official page: call “published in early November 2026”; no deadlines yet | [page](https://nime2027.org) |
 | 2026-11-01 | ICLC 2027 | Paper notification | milestone | Submission closed Sep 1 | [page](https://iclc.toplap.org/2027/) |
 | 2026-11-06 | CTM 2027 | Vorspiel 2027 open call (transmediale & CTM) | 🟢 | | [page](https://www.ctm-festival.de/festival-2027/open-calls) |
-| 2026-11-14 | TENOR 2027 | Papers, workshops, theoretical-artistic presentations | 🟢 | Call published Sep 28, 2026; artistic presentations (≤10 min, must link to a paper or workshop); notification Jan 21, 2027; camera-ready Feb 22, 2027 | [page](https://orpheusinstituut.be/en/news/tenor2027) |
+| 2026-11-14 | TENOR 2027 | Papers, workshops, theoretical-artistic presentations | 🟢 | ⚠️ Official page also lists Nov 21 (see flags); call published Sep 28, 2026; artistic presentations (≤10 min, must link to a paper or workshop); notification Jan 21, 2027; camera-ready Feb 22, 2027 | [page](https://orpheusinstituut.be/en/news/tenor2027) |
 | 2026-11-16 | EvoMUSART 2027 | Paper | 🟢 | Extended from Nov 1 (per official EvoStar news feed); notification Jan 10, 2027 | [page](https://www.evostar.org/2027/evomusart/) |
 | 2027-02-01 | ICLC 2027 | Satellite events | 🟢 | | [page](https://iclc.toplap.org/2027/) |
 
@@ -19,7 +19,7 @@ Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 c
 
 | Conference | Where / when | Status | Deadlines | Notification | Source | Checked |
 |---|---|---|---|---|---|---|
-| **TENOR 2027** | Ghent, Apr 21–23, 2027 | 🟢 | Nov 14, 2026 (papers, workshops, theoretical-artistic presentations) | Jan 21, 2027 (camera-ready Feb 22; registration closes Apr 4) | [orpheusinstituut.be](https://orpheusinstituut.be/en/news/tenor2027) | 2026-10-05 |
+| **TENOR 2027** | Ghent, Apr 21–23, 2027 | 🟢 | Nov 14, 2026 (papers, workshops, theoretical-artistic presentations); page also says Nov 21 – unresolved | Jan 21, 2027 (camera-ready Feb 22; registration closes Apr 4) | [orpheusinstituut.be](https://orpheusinstituut.be/en/news/tenor2027) | 2026-11-04 |
 | **MEC 2027** | Rome, Jun 7–10, 2027 | ⚪ | CFP not announced | — | [music-encoding.org](https://music-encoding.org/update/2026/08/25/mec2027.html) | 2026-10-05 |
 | **NIME 2027** | Paris, Jun 21–25, 2027 | ⚪ | Call to be published early Nov 2026 | — | [nime2027.org](https://nime2027.org) | 2026-11-03 |
 | **WAC 2027** | Brazil (unconfirmed) | ⚪ | No call found | — | none official | 2026-10-05 |
@@ -38,6 +38,7 @@ Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 c
 ## Flags / unverified
 
 - **TENOR 2027:** earlier Dec 15 / Feb 17 snippet dates were not confirmed by the official page; official page (call published Sep 28) gives Nov 14 / Jan 21. Official page lists artistic presentations (≤10 min fixed-media/live electronics) but only linked to a paper or workshop; no standalone music call.
+- **TENOR 2027 (2026-11-04):** official page is internally inconsistent: header says Nov 21, “Important dates” says “November 14, November 21, 2026: Submission deadline.” Treat Nov 14 as the safe date; confirm with mtt.researchcluster@orpheusinstituut.be.
 - **NeurIPS dates** come from search snippets; the official page fetch did not show them.
 - **WAC 2027 (Brazil)** is unconfirmed on an official page.
 - **AIMC 2027** milestones are not retrievable from the official site.
