@@ -1,6 +1,6 @@
 # Conference tracking
 
-Last checked: 2026-11-06 (core list; not Monday, watchlist skipped; NIME 2027 papers, music and art/installation calls now published, dates not retrievable; no other changes)
+Last checked: 2026-11-09 (core list + Monday watchlist; NIME 2027 key dates published; ICLC 2027 notification now “no later than Nov 21”; CTM Research Networking Day listed open to Nov 30; Vorspiel closed)
 
 Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 closed
 
@@ -8,12 +8,18 @@ Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 c
 
 | Date | Conference | What | Status | Notes | Link |
 |---|---|---|---|---|---|
-| 2026-11 (TBA) | NIME 2027 | Papers, music/performance, art/installations: calls published, deadlines not retrievable; workshops call “later in November 2026” | 🟡 | Check Key dates page on official site | [page](https://nime2027.org) |
-| 2026-11-01 | ICLC 2027 | Paper notification | milestone | Submission closed Sep 1 | [page](https://iclc.toplap.org/2027/) |
-| 2026-11-06 | CTM 2027 | Vorspiel 2027 open call (transmediale & CTM) | 🟢 | | [page](https://www.ctm-festival.de/festival-2027/open-calls) |
-| 2026-11-14 | TENOR 2027 | Papers, workshops, theoretical-artistic presentations | 🟢 | ⚠️ Official page also lists Nov 21 (see flags); call published Sep 28, 2026; artistic presentations (≤10 min, must link to a paper or workshop); notification Jan 21, 2027; camera-ready Feb 22, 2027 | [page](https://orpheusinstituut.be/en/news/tenor2027) |
-| 2026-11-16 | EvoMUSART 2027 | Paper | 🟢 | Extended from Nov 1 (per official EvoStar news feed); notification Jan 10, 2027 | [page](https://www.evostar.org/2027/evomusart/) |
-| 2027-02-01 | ICLC 2027 | Satellite events | 🟢 | | [page](https://iclc.toplap.org/2027/) |
+| 2026-11-14 | TENOR 2027 | Papers, workshops, theoretical-artistic presentations | 🟢 | ⚠️ Official page also lists Nov 21 (see flags); notification Jan 21, 2027; camera-ready Feb 22, 2027 | [page](https://orpheusinstituut.be/en/news/tenor2027) |
+| 2026-11-16 | EvoMUSART 2027 | Paper | 🟢 | Extended from Nov 1; notification Jan 10, 2027 | [page](https://www.evostar.org/2027/evomusart/) |
+| 2026-11-21 | ICLC 2027 | Paper notification (“no later than”) | milestone | Submission closed Sep 1; previously stored as Nov 1 | [page](https://iclc.toplap.org/2027/) |
+| 2026-11-30 | CTM 2027 | Research Networking Day call for presentations | 🟡 | Listed under “Open” on official page, no explicit status | [page](https://www.ctm-festival.de/festival-2027/open-calls) |
+| 2026-12-04 | NIME 2027 | Submission system opens (peer-reviewed tracks); juried-track calls (music, art/installation) publish later in Nov | 🟡 | Workshops call later in Nov 2026 | [page](https://nime2027.org/call/key-dates) |
+| 2026-12-06 | CTM 2027 | Volunteers call | 🟢 | | [page](https://www.ctm-festival.de/festival-2027/open-calls) |
+| 2027-01-15 | Organised Sound | Issue 32/3 “Art and Craft in Electroacoustic Music” submissions | 🟢 | Via mailing-list/Cambridge announcement; verify | [page](https://groups.google.com/g/cec-conference/c/R9o-XRhyVYs) |
+| 2027-01-24 | NIME 2027 | Peer-reviewed tracks: titles, abstracts, authors | 🟢 | 23:59 AoE; decisions Mar 19; camera-ready Apr 30 | [page](https://nime2027.org/call/key-dates) |
+| 2027-01-31 | NIME 2027 | Peer-reviewed tracks: full submissions | 🟢 | 23:59 AoE | [page](https://nime2027.org/call/key-dates) |
+| 2027-02-01 | ICLC 2027 | Satellite events (declarations of interest) | 🟢 | Registration deadline Feb 14 | [page](https://iclc.toplap.org/2027/) |
+| 2027-02-01 | Computer Music Journal | Special issue “Is there an Aesthetic of AI Music?”: optional abstract (full article Aug 1, 2027) | 🟢 | Source is a mailing-list repost; verify on MIT Press | [page](https://groups.google.com/g/musicalmetacreation/c/GQFVNhzH9HI) |
+| 2027-04-04 | NIME 2027 | Juried tracks (music/performance, art/installation) submissions | 🟢 | Decisions Apr 30; final materials May 9 | [page](https://nime2027.org/call/key-dates) |
 
 ## All conferences
 
@@ -21,19 +27,23 @@ Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 c
 |---|---|---|---|---|---|---|
 | **TENOR 2027** | Ghent, Apr 21–23, 2027 | 🟢 | Nov 14, 2026 (papers, workshops, theoretical-artistic presentations); page also says Nov 21 – unresolved | Jan 21, 2027 (camera-ready Feb 22; registration closes Apr 4) | [orpheusinstituut.be](https://orpheusinstituut.be/en/news/tenor2027) | 2026-11-04 |
 | **MEC 2027** | Rome, Jun 7–10, 2027 | ⚪ | CFP not announced | — | [music-encoding.org](https://music-encoding.org/update/2026/08/25/mec2027.html) | 2026-10-05 |
-| **NIME 2027** | Paris, Jun 21–25, 2027 | 🟡 | Papers, music, art/installation calls published; deadlines not retrievable; workshops call later in Nov 2026 | — | [nime2027.org](https://nime2027.org) | 2026-11-06 |
+| **NIME 2027** | Paris, Jun 21–25, 2027 | 🟢 | Peer-reviewed: abstracts Jan 24, full Jan 31, 2027 (system opens Dec 4). Juried (music, art): Apr 4, 2027. Workshops call later in Nov | Mar 19, 2027 (peer-reviewed); Apr 30 (juried) | [nime2027.org](https://nime2027.org/call/key-dates) | 2026-11-09 |
 | **WAC 2027** | Brazil (unconfirmed) | ⚪ | No call found | — | none official | 2026-10-05 |
 | **AIMC 2027** *(organizer)* | Montréal, Aug 18–20, 2027 | — | Milestones not retrievable (page thin) | — | [aimusiccreativity.org](https://2027.aimusiccreativity.org) | 2026-10-05 |
 | **Expanded (Ars Electronica)** | Linz, Sep 9–11, 2026 | 🔴 | Paper deadline was May 1, 2026; 2027 call not found | — | — | 2026-10-05 |
 | **ISMIR 2027** | London, Sep 12–16, 2027 | ⚪ | No CFP yet | — | [ismir.net](https://ismir.net) | 2026-10-05 |
 | **ICMC 2027** | — | ⚪ | No call found | — | — | 2026-10-05 |
 | **SMC 2027** | — | ⚪ | No call found | — | — | 2026-10-05 |
-| **ICLC 2027** | Antwerp, Mar 9–13, 2027 | 🔴 papers · 🟢 satellite | Papers, performances, workshops, installations: Sep 1, 2026 (closed). Satellite events: Feb 1, 2027 | Nov 1, 2026 (papers) | [iclc.toplap.org](https://iclc.toplap.org/2027/) | 2026-10-05 |
+| **ICLC 2027** | Antwerp, Mar 9–13, 2027 | 🔴 papers · 🟢 satellite | Papers, performances, workshops, installations: Sep 1, 2026 (closed). Satellite events: Feb 1, 2027 | by Nov 21, 2026 (papers) | [iclc.toplap.org](https://iclc.toplap.org/2027/) | 2026-11-09 |
 | **EvoMUSART 2027** | Mainz, Mar 31–Apr 2, 2027 | 🟢 | Paper: Nov 16, 2026 (extended from Nov 1) | Jan 10, 2027 (camera-ready Jan 24; late-breaking abstracts Mar 21) | [evostar.org](https://www.evostar.org/2027/evomusart/) | 2026-10-27 |
 | **ICCC 2027** | Host bidding phase | ⚪ | No CFP | — | [computationalcreativity.net](https://computationalcreativity.net) | 2026-10-05 |
 | **ISEA 2027** | — | ⚪ | No call found (ISEA 2026 Dubai over) | — | — | 2026-10-05 |
 | **NeurIPS 2026 Creative AI** | Sydney | 🔴 | Aug 10, 2026 (extended, closed) | Sep 18; camera-ready Oct 23, 2026 | [neurips.cc](https://neurips.cc/Conferences/2026/CallForCreativeAI) | 2026-10-05 |
 | **MUTEK Montréal 2027** | Edition 28 | ⚪ | No call yet (2026 call closed Jan 31, 2026); edition 28 is Aug 24–29, 2027 | — | [montreal.mutek.org](https://montreal.mutek.org) | 2026-11-03 |
+| **DAFx 2027** *(watchlist)* | Cremona, Aug 24–27, 2027 | ⚪ | No deadline published | — | [dafx27.deib.polimi.it](https://dafx27.deib.polimi.it/) | 2026-11-09 |
+| **xCoAx 2027** *(watchlist)* | Évora, Jul 7–9, 2027 | 🟡 | Deadline not retrieved | — | [xcoax.org](https://xcoax.org) | 2026-11-09 |
+| **Organised Sound** *(watchlist)* | Journal | 🟢 | 32/3: Jan 15, 2027; 33/1: May 15, 2027 | — | [cambridge.org](https://www.cambridge.org/core/journals/organised-sound) | 2026-11-09 |
+| **Computer Music Journal** *(watchlist)* | Journal | 🟢 | AI-music special issue: abstract Feb 1, full Aug 1, 2027 | — | [direct.mit.edu/comj](https://direct.mit.edu/comj) | 2026-11-09 |
 
 ## Flags / unverified
 
@@ -42,7 +52,8 @@ Status key: 🟢 open · 🟡 expected / unverified · ⚪ no call yet · 🔴 c
 - **NeurIPS dates** come from search snippets; the official page fetch did not show them.
 - **WAC 2027 (Brazil)** is unconfirmed on an official page.
 - **AIMC 2027** milestones are not retrievable from the official site.
-- **CTM 2027:** Research Networking Day call (deadline Oct 25) is now listed as closed. Vorspiel open call closes Nov 6. Spatial-audio lab, In Listening and Resynthesising calls are closed. Volunteers call coming late autumn.
+- **CTM 2027 (2026-11-09):** Vorspiel closed Nov 6. Research Networking Day now listed open (Nov 30) though earlier marked closed (Oct 25); its description looks copied from the volunteers call – verify. Volunteers Dec 6.
 - **EvoMUSART 2027:** Nov 16 extension now appears on the official EvoStar site (news feed); the generic Important Dates block is shared across Evo* conferences.
-- **NIME 2027 (2026-11-06):** official page says calls for Papers, Music/Performance and Art/Installations are published; workshops follow later in November. Deadlines are on a Key dates page I could not retrieve (nime2027.org/key-dates returned 404). Verify manually.
+- **NIME 2027:** key dates now retrieved from nime2027.org/call/key-dates (2026-11-09).
 - **ISMIR 2027** site (ismir2027.ismir.net) was unreachable.
+- **Watchlist (2026-11-09):** Audio Mostly, ICAD, CMMR, Prix Ars (expect early-Mar 2027, unannounced), transmediale, Sónar+D, SIGGRAPH Art Papers, C&C, TEI, Leonardo Music Journal, TISMIR: no verified 2027 call found. MEC 2027 conference page says CFP “will be announced”.
